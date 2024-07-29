@@ -1,11 +1,23 @@
 
 body{
 
-    background-image: url("../../img/niveles/fondo2.png");
+    background-image: url("../../imgs/niveles/fondo2.png");
     background-repeat: no-repeat;
     background-size: cover; 
     position: relative;
     font-family: 'Pajji', sans-serif;
+}
+.container {
+
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    height: 90%;
+    left: 200px;
+    top: 50px;
 }
 
 .level1{

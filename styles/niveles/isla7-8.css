@@ -95,8 +95,8 @@ height: 115px;
     justify-content: center;
     align-items: center;
     position: absolute;
-    top: 400px;
-    left: 450px;
+    top: 650px;
+    left: 600px;
     z-index: 3;
 }
 .boton1 img{
@@ -110,8 +110,8 @@ height: 115px;
     justify-content: center;
     align-items: center;
     position: absolute;
-    top: 400px;
-    left: 1080px;
+    top: 650px;
+    left: 1500px;
     z-index: 3;
 }
 .boton2 img{
@@ -155,7 +155,7 @@ position: absolute;
 width: 125px;
 height: 125px;
 top: 10%;
-left: 1200px;
+left: 1700px;
 cursor: pointer;
 transform: rotate(-180deg);
 z-index: 3;
